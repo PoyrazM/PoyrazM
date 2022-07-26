@@ -3,7 +3,7 @@
 # 💻 Software Developer in Test | QA Engineer
 
 ### 📌 I am 23 years old and I interested in test automation in the software.
-### 👨‍💻 I am currently a bootcamp student from Patika.dev and Wingie Enuygun Group.
+### 👨‍💻 I am currently a bootcamp student at Patika.dev and Wingie Enuygun Group.
 
 
 <br />
