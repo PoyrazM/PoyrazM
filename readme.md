@@ -32,7 +32,7 @@
 <img src="https://p7.hiclipart.com/preview/743/345/230/bash-git-computer-icons-installation-command-line-interface-github.jpg"width = "25" height ="25"align = left>
 <img src="https://miro.medium.com/max/1200/0*iBTgSG7hAjdlHZM_.png"width = "25" height ="25"align = left>
 <img src="https://cdn-images.threadless.com/threadless-media/artist_shops/shops/cucumberbdd/products/331102/shirt-1506959552-9db0bf308df8403aa0bcfddee50fac96.png?v=3&d=eyJvbmx5X21ldGEiOiBmYWxzZSwgImZvcmNlIjogZmFsc2UsICJvcHMiOiBbWyJ0cmltIiwgW2ZhbHNlLCBmYWxzZV0sIHt9XSwgWyJyZXNpemUiLCBbXSwgeyJ3aWR0aCI6IDk5Ni4wLCAiYWxsb3dfdXAiOiBmYWxzZSwgImhlaWdodCI6IDk5Ni4wfV0sIFsiY2FudmFzX2NlbnRlcmVkIiwgWzEyMDAsIDEyMDBdLCB7ImJhY2tncm91bmQiOiAiZmZmZmZmIn1dLCBbInJlc2l6ZSIsIFs4MDBdLCB7fV0sIFsiY2FudmFzX2NlbnRlcmVkIiwgWzgwMCwgODAwLCAiI2ZmZmZmZiJdLCB7fV0sIFsiZW5jb2RlIiwgWyJqcGciLCA4NV0sIHt9XV19" width = "25" height ="25"align = left>
-<img src="https://yandex.com.tr/gorsel/search?text=appium%20logo&from=tabbar&pos=35&rpt=simage&img_url=https%3A%2F%2Fktkm.net%2Fwp-content%2Fuploads%2F2020%2F02%2FAppium.png&lr=115717"width = "25" height = "25" align = left>
+<img src="https://yandex.com.tr/gorsel/search?text=appium%20logo&from=tabbar&pos=35&rpt=simage&img_url=https%3A%2F%2Fktkm.net%2Fwp-content%2Fuploads%2F2020%2F02%2FAppium.png"width = "25" height = "25" align = left>
 
 
 
