@@ -29,7 +29,7 @@
 <img src="https://miro.medium.com/max/1400/1*dOZ2YEUpPOxiNGVMq6-K_g.jpeg"width = "25" height ="25"align = left>
 <img src="https://miro.medium.com/max/631/1*vVFlHffet6kcD4cBNogVzQ.png"width = "25" height ="25"align = left>
 <img src="https://carbonmade-media.accelerator.net/32488255;1200x601.png?auto=webp"width = "25" height ="25"align = left>
-<img src="https://p7.hiclipart.com/preview/743/345/230/bash-git-computer-icons-installation-command-line-interface-github.jpg"width = "25" height ="25"align = left>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"width = "25" height ="25"align = left>
 <img src="https://miro.medium.com/max/1200/0*iBTgSG7hAjdlHZM_.png"width = "25" height ="25"align = left>
 <img src="https://i.pinimg.com/originals/87/e8/49/87e8491cdd5ee5dacf3059f0c0832ce7.png" width = "25" height ="25"align = left>
 <img src="https://logowiki.net/uploads/logo/a/appium.svg"width = "25" height = "25" align = left>
