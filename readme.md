@@ -33,7 +33,7 @@
 <img src="https://miro.medium.com/max/1200/0*iBTgSG7hAjdlHZM_.png"width = "25" height ="25"align = left>
 <img src="https://i.pinimg.com/originals/87/e8/49/87e8491cdd5ee5dacf3059f0c0832ce7.png" width = "25" height ="25"align = left>
 <img src="https://logowiki.net/uploads/logo/a/appium.svg"width = "25" height = "25" align = left>
-
+<img src="https://blog.jetbrains.com/wp-content/uploads/2019/08/logo.png" width="25" height ="25" align = left>
 
 
 
