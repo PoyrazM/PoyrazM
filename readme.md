@@ -20,21 +20,21 @@
 <br />
 
 # My Skillset
-<img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width = "25" height = "25" align = left>
-<img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/selenium/selenium.png" width = "25" height = "25" align = left>
-<img src="https://miro.medium.com/max/400/1*qmS-f8Pv72ZavjF22v-xiw.png" width ="25" height="25"align = left>
-<img src="https://avatars.mds.yandex.net/i?id=e4404bd4726626092e912b5ccd9a9f97-4322178-images-thumbs&n=13" width = "25" height ="25"align = left>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Katalon-logo-vector.svg/1200px-Katalon-logo-vector.svg.png" width = "25" height ="25"align = left>
-<img src="https://devqa.io/assets/images/karate-automated-api-testing.png"width = "25" height ="25"align = left>
-<img src="https://miro.medium.com/max/1400/1*dOZ2YEUpPOxiNGVMq6-K_g.jpeg"width = "25" height ="25"align = left>
-<img src="https://miro.medium.com/max/631/1*vVFlHffet6kcD4cBNogVzQ.png"width = "25" height ="25"align = left>
-<img src="https://carbonmade-media.accelerator.net/32488255;1200x601.png?auto=webp"width = "25" height ="25"align = left>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"width = "25" height ="25"align = left>
-<img src="https://miro.medium.com/max/1200/0*iBTgSG7hAjdlHZM_.png"width = "25" height ="25"align = left>
-<img src="https://i.pinimg.com/originals/87/e8/49/87e8491cdd5ee5dacf3059f0c0832ce7.png" width = "25" height ="25"align = left>
-<img src="https://logowiki.net/uploads/logo/a/appium.svg"width = "25" height = "25" align = left>
-<img src="https://blog.jetbrains.com/wp-content/uploads/2019/08/logo.png" width="25" height ="25" align = left>
-<img src="https://1.bp.blogspot.com/-rQ70BFa26fo/Xuz5obVh5TI/AAAAAAAAVU8/sPq_JiH52xUkqk2zFV5wqWrrotaVp2sOACK4BGAsYHg/s1600/jenkinsLogo1.png" width="25" height="25" align = left>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Devicon-html5-plain-wordmark.svg/1024px-Devicon-html5-plain-wordmark.svg.png" width="25" height="25" align = left>
+<img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width = "35" height = "35" align = left>
+<img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/selenium/selenium.png" width = "35" height = "35" align = left>
+<img src="https://miro.medium.com/max/400/1*qmS-f8Pv72ZavjF22v-xiw.png" width ="35" height="35"align = left>
+<img src="https://avatars.mds.yandex.net/i?id=e4404bd4726626092e912b5ccd9a9f97-4322178-images-thumbs&n=13" width = "35" height ="35"align = left>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Katalon-logo-vector.svg/1200px-Katalon-logo-vector.svg.png" width = "35" height ="35"align = left>
+<img src="https://devqa.io/assets/images/karate-automated-api-testing.png"width = "35" height ="35"align = left>
+<img src="https://miro.medium.com/max/1400/1*dOZ2YEUpPOxiNGVMq6-K_g.jpeg"width = "35" height ="35"align = left>
+<img src="https://miro.medium.com/max/631/1*vVFlHffet6kcD4cBNogVzQ.png"width = "35" height ="35"align = left>
+<img src="https://carbonmade-media.accelerator.net/32488255;1200x601.png?auto=webp"width = "35" height ="35"align = left>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"width = "35" height ="35"align = left>
+<img src="https://miro.medium.com/max/1200/0*iBTgSG7hAjdlHZM_.png"width = "35" height ="35"align = left>
+<img src="https://i.pinimg.com/originals/87/e8/49/87e8491cdd5ee5dacf3059f0c0832ce7.png" width = "35" height ="35"align = left>
+<img src="https://logowiki.net/uploads/logo/a/appium.svg"width = "35" height = "35" align = left>
+<img src="https://blog.jetbrains.com/wp-content/uploads/2019/08/logo.png" width="35" height ="35" align = left>
+<img src="https://1.bp.blogspot.com/-rQ70BFa26fo/Xuz5obVh5TI/AAAAAAAAVU8/sPq_JiH52xUkqk2zFV5wqWrrotaVp2sOACK4BGAsYHg/s1600/jenkinsLogo1.png" width="35" height="35" align = left>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Devicon-html5-plain-wordmark.svg/1024px-Devicon-html5-plain-wordmark.svg.png" width="35" height="35" align = left>
 
 
