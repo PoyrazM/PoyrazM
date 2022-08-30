@@ -37,6 +37,6 @@
 <img src="https://logowiki.net/uploads/logo/a/appium.svg"width = "35" height = "35" align = left>
 <img src="https://blog.jetbrains.com/wp-content/uploads/2019/08/logo.png" width="35" height ="35" align = left>
 <img src="https://1.bp.blogspot.com/-rQ70BFa26fo/Xuz5obVh5TI/AAAAAAAAVU8/sPq_JiH52xUkqk2zFV5wqWrrotaVp2sOACK4BGAsYHg/s1600/jenkinsLogo1.png" width="35" height="35" align = left>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" width="35" height="35" align = left>
+<img src="https://darlley.github.io/images/icon-css.png" width="35" height="35" align = left>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Devicon-html5-plain-wordmark.svg/1024px-Devicon-html5-plain-wordmark.svg.png" width="35" height="35" align = left>
 
