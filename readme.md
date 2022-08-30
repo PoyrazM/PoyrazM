@@ -21,7 +21,9 @@
 
 # My Skillset
 <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width = "35" height = "35" align = left>
+<img src="https://mywishboard.com/thumbs/wish/k/q/j/1020x0_tiyybunfeqaxkmtg_jpg_4fc2.jpg" width = "35" height = "35" align = left>
 <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/selenium/selenium.png" width = "35" height = "35" align = left>
+<img src="https://copm.s3.amazonaws.com/581f5ac1.png" width = "35" height = "35" align = left>
 <img src="https://miro.medium.com/max/400/1*qmS-f8Pv72ZavjF22v-xiw.png" width ="35" height="35"align = left>
 <img src="https://avatars.mds.yandex.net/i?id=e4404bd4726626092e912b5ccd9a9f97-4322178-images-thumbs&n=13" width = "35" height ="35"align = left>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Katalon-logo-vector.svg/1200px-Katalon-logo-vector.svg.png" width = "35" height ="35"align = left>
