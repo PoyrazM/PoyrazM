@@ -20,7 +20,7 @@
 <br />
 
 # My Skillset
-<img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width = "35" height = "35" align = left>
+<img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem-2048x1280.jpg" width = "35" height = "35" align = left>
 <img src="https://mywishboard.com/thumbs/wish/k/q/j/1020x0_tiyybunfeqaxkmtg_jpg_4fc2.jpg" width = "35" height = "35" align = left>
 <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/selenium/selenium.png" width = "35" height = "35" align = left>
 <img src="https://copm.s3.amazonaws.com/581f5ac1.png" width = "35" height = "35" align = left>
