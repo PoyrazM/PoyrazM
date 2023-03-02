@@ -35,7 +35,7 @@
 <img src="https://devqa.io/assets/images/karate-automated-api-testing.png"width = "35" height ="35"align = left>
 <img src="https://miro.medium.com/max/1400/1*dOZ2YEUpPOxiNGVMq6-K_g.jpeg"width = "35" height ="35"align = left>
 <img src="https://miro.medium.com/max/631/1*vVFlHffet6kcD4cBNogVzQ.png"width = "35" height ="35"align = left>
-<img src="https://carbonmade-media.accelerator.net/32488255;1200x601.png?auto=webp"width = "35" height ="35"align = left>
+<img src="https://pbs.twimg.com/profile_images/1318604600677527552/stk8sqYZ_400x400.png"width = "35" height ="35"align = left>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"width = "35" height ="35"align = left>
 <img src="https://miro.medium.com/max/1200/0*iBTgSG7hAjdlHZM_.png"width = "35" height ="35"align = left>
 <img src="https://i.pinimg.com/originals/87/e8/49/87e8491cdd5ee5dacf3059f0c0832ce7.png" width = "35" height ="35"align = left>
