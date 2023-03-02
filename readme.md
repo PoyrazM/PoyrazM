@@ -4,6 +4,7 @@
 
 ### 📌 I am 23 years old and I am passionate about test automation in the software.
 ### 👨‍💻 I graduated Test Automation Bootcamp at Patika.dev and Wingie Enuygun Group.
+### 👾 I am currently learning Spring Boot , React
 
 
 <br />
