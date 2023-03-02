@@ -41,6 +41,7 @@
 <img src="https://i.pinimg.com/originals/87/e8/49/87e8491cdd5ee5dacf3059f0c0832ce7.png" width = "35" height ="35"align = left>
 <img src="https://logowiki.net/uploads/logo/a/appium.svg"width = "35" height = "35" align = left>
 <img src="https://blog.jetbrains.com/wp-content/uploads/2019/08/logo.png" width="35" height ="35" align = left>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" width="35" height ="35" align = left>
 <img src="https://1.bp.blogspot.com/-rQ70BFa26fo/Xuz5obVh5TI/AAAAAAAAVU8/sPq_JiH52xUkqk2zFV5wqWrrotaVp2sOACK4BGAsYHg/s1600/jenkinsLogo1.png" width="35" height="35" align = left>
 <img src="https://repository-images.githubusercontent.com/410190953/8612467d-5a5c-40cb-a3f3-7966cea3f396" width="35" height="35" align = left>
 <img src="https://cdn.dribbble.com/users/66221/screenshots/1655593/html5.png" width="35" height="35" align = left>
