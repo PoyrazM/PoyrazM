@@ -4,10 +4,12 @@
 
 ### 📌 I am 23 years old and I am passionate about test automation in the software.
 ### 👨‍💻 I graduated Test Automation Bootcamp at Patika.dev and Wingie Enuygun Group.
-<br/>
-# 👾 I am currently learning
-<img src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" width="35" height="35">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"width="35" height="35">
+
+<br />
+
+# I am currently learning
+<img src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" width="35" height="35" align=left>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"width="35" height="35" align=left>
 
 <br />
 <br />
