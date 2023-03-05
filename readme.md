@@ -4,8 +4,6 @@
 
 I am Mertcan and 23yo. I am working on the Test Automation @Enuygun.
 
-<br />
-
 # 👾 I am currently learning 
 <img src="https://programadoresbrasil.com.br/wp-content/uploads/2021/05/spring-framework.png" width="35" height="35" align=left>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"width="35" height="35" align=left>
