@@ -2,8 +2,7 @@
 
 # 💻 Software Developer in Test | QA Engineer
 
-### 📌 I am 23 years old and I am passionate about test automation in the software.
-### 👨‍💻 I graduated Test Automation Bootcamp at Patika.dev and Wingie Enuygun Group.
+I am Mertcan and 23yo. I am working on the Test Automation @Enuygun.
 
 <br />
 
