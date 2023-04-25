@@ -2,7 +2,8 @@
 
 # 💻 Software Developer in Test | QA Engineer
 
-I am Mertcan and 23yo. I am working on the Test Automation @Enuygun.
+I am Mertcan and 24yo. I am working on the Test Automation @Enuygun.
+I am interested in Test Automation and Full Stack Development.
 
 # 👾 I am currently learning 
 <img src="https://programadoresbrasil.com.br/wp-content/uploads/2021/05/spring-framework.png" width="35" height="35" align=left>
