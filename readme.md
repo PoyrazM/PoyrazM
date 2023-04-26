@@ -23,6 +23,7 @@ I am interested in Test Automation and Full Stack Development.
 
 ## My Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PoyrazM&theme=tokyonight&langs_count=10&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PoyrazM&show_icons=true&theme=tokyonight)
 
 
 # My Skillset
