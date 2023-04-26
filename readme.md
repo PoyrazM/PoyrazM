@@ -6,7 +6,7 @@ I am Mertcan and 24yo. I am working on the Test Automation @Enuygun.
 I am interested in Test Automation and Full Stack Development.
 
 # 👾 I am currently learning 
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--_3XbWr5L--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1xofa8chbq27ozlle2jw.png" width = "70" height = "35" align = left>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--_3XbWr5L--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1xofa8chbq27ozlle2jw.png" width = "100" height = "50" align = left>
 
 <br />
 <br />
