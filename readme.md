@@ -6,14 +6,14 @@ I am Mertcan and 24yo. I am working on the Test Automation @Enuygun.
 I am interested in Test Automation and Full Stack Development.
 
 # 👾 I am currently learning 
-
+<img src="https://www.edureka.co/blog/wp-content/uploads/2018/09/Golang-Logo-Golang-Tutorial-Edureka.jpg" width = "35" height = "35" align = left>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="35" height="35" align=left>
 
 <br />
 <br />
 
 ## Reach out to me
-<img src="https://www.edureka.co/blog/wp-content/uploads/2018/09/Golang-Logo-Golang-Tutorial-Edureka.jpg" width = "35" height = "35" align = left>
+
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg"  align ="left" />[linkedin]  
 
 [linkedin]: https://www.linkedin.com/in/poyrazmertcan/
