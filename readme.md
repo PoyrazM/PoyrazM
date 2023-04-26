@@ -14,10 +14,9 @@ I am interested in Test Automation and Full Stack Development.
 
 ## Reach out to me
 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg"  align ="left" />[linkedin]  
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg"  align ="left" />][linkedin]  
 
 [linkedin]: https://www.linkedin.com/in/poyrazmertcan/
-
 
 <br />
 <br />
