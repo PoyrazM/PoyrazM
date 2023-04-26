@@ -21,6 +21,10 @@ I am interested in Test Automation and Full Stack Development.
 <br />
 <br />
 
+## My Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PoyrazM&theme=tokyonight&langs_count=10&layout=compact)
+
+
 # My Skillset
 <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem-2048x1280.jpg" width = "35" height = "35" align = left>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width = "35" height = "35" align = left>
@@ -48,5 +52,3 @@ I am interested in Test Automation and Full Stack Development.
 <img src="https://w1.pngwing.com/pngs/711/379/png-transparent-green-grass-mongodb-database-documentoriented-database-dashboard-nosql-bson-javascript.png" width="35" height="35" align = left>
 <img src="https://pbs.twimg.com/profile_images/1451297216187011072/xLd1JSZk_400x400.png" width="35" height="35" align = left>
 
-## My Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PoyrazM&theme=tokyonight&langs_count=10&layout=compact)
