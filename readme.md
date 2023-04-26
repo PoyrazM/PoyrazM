@@ -44,4 +44,7 @@ I am interested in Test Automation and Full Stack Development.
 <img src="https://1.bp.blogspot.com/-rQ70BFa26fo/Xuz5obVh5TI/AAAAAAAAVU8/sPq_JiH52xUkqk2zFV5wqWrrotaVp2sOACK4BGAsYHg/s1600/jenkinsLogo1.png" width="35" height="35" align = left>
 <img src="https://repository-images.githubusercontent.com/410190953/8612467d-5a5c-40cb-a3f3-7966cea3f396" width="35" height="35" align = left>
 <img src="https://cdn.dribbble.com/users/66221/screenshots/1655593/html5.png" width="35" height="35" align = left>
+<img src="https://ucarecdn.com/0295176b-b17a-4106-b3b0-5bf2b14365e6/" width="35" height="35" align = left>
+<img src="https://w1.pngwing.com/pngs/711/379/png-transparent-green-grass-mongodb-database-documentoriented-database-dashboard-nosql-bson-javascript.png" width="35" height="35" align = left>
+<img src="https://pbs.twimg.com/profile_images/1451297216187011072/xLd1JSZk_400x400.png" width="35" height="35" align = left>
 
