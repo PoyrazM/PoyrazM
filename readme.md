@@ -31,7 +31,7 @@ I am interested in Test Automation and Full Stack Development.
 <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem-2048x1280.jpg" width = "35" height = "35" align = left>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width = "35" height = "35" align = left>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width = "35" height = "35" align = left>
-<img src="https://pluralsight2.imgix.net/paths/images/corespring-f9a00f4516.png" width="35" height="55" align=left>
+<img src="https://e7.pngegg.com/pngimages/931/804/png-clipart-spring-framework-software-framework-java-application-framework-web-framework-java-leaf-text.png" width="35" height="35" align=left>
 <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/selenium/selenium.png" width = "35" height = "35" align = left>
 <img src="https://copm.s3.amazonaws.com/581f5ac1.png" width = "35" height = "35" align = left>
 <img src="https://miro.medium.com/max/400/1*qmS-f8Pv72ZavjF22v-xiw.png" width ="35" height="35"align = left>
