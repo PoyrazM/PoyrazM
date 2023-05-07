@@ -31,7 +31,7 @@ I am interested in Test Automation and Full Stack Development.
 <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem-2048x1280.jpg" width = "35" height = "35" align = left>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width = "35" height = "35" align = left>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width = "35" height = "35" align = left>
-<img src="https://programadoresbrasil.com.br/wp-content/uploads/2021/05/spring-framework.png" width="35" height="35" align=left>
+<img src="vhv.rs/dpng/d/458-4589658_spring-framework-logo-spring-boot-png-transparent-png.png" width="35" height="35" align=left>
 <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/selenium/selenium.png" width = "35" height = "35" align = left>
 <img src="https://copm.s3.amazonaws.com/581f5ac1.png" width = "35" height = "35" align = left>
 <img src="https://miro.medium.com/max/400/1*qmS-f8Pv72ZavjF22v-xiw.png" width ="35" height="35"align = left>
@@ -45,8 +45,6 @@ I am interested in Test Automation and Full Stack Development.
 <img src="https://miro.medium.com/max/1200/0*iBTgSG7hAjdlHZM_.png"width = "35" height ="35"align = left>
 <img src="https://i.pinimg.com/originals/87/e8/49/87e8491cdd5ee5dacf3059f0c0832ce7.png" width = "35" height ="35"align = left>
 <img src="https://logowiki.net/uploads/logo/a/appium.svg"width = "35" height = "35" align = left>
-<img src="https://blog.jetbrains.com/wp-content/uploads/2019/08/logo.png" width="35" height ="35" align = left>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" width="35" height ="35" align = left>
 <img src="https://1.bp.blogspot.com/-rQ70BFa26fo/Xuz5obVh5TI/AAAAAAAAVU8/sPq_JiH52xUkqk2zFV5wqWrrotaVp2sOACK4BGAsYHg/s1600/jenkinsLogo1.png" width="35" height="35" align = left>
 <img src="https://repository-images.githubusercontent.com/410190953/8612467d-5a5c-40cb-a3f3-7966cea3f396" width="35" height="35" align = left>
 <img src="https://cdn.dribbble.com/users/66221/screenshots/1655593/html5.png" width="35" height="35" align = left>
