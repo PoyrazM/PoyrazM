@@ -20,10 +20,12 @@ I am interested in Test Automation and Full Stack Development.
 </a> 
 </div>  
 
+
+
 <br>
 <h2 align="center"> My Stats </h2>
 <div align="center">
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PoyrazM&show_icons=true&theme=tokyonight)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PoyrazM&show_icons=true&locale=en&theme=tokyonight" alt="PoyrazM" /></p>
 </div>
 
 <br>
