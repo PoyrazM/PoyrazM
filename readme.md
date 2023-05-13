@@ -20,15 +20,17 @@ I am interested in Test Automation and Full Stack Development.
 </a> 
 </div>  
 
-<br />
-<br />
+<br>
+<h2 align="center"> My Stats </h2>
+<div align="center">
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PoyrazM&show_icons=true&theme=tokyonight)
+</div>
 
-## My Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PoyrazM&show_icons=true&theme=tokyonight)
-
-## My Languages
+<br>
+<h2 align="center"> My Languages </h2>
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PoyrazM&theme=tokyonight&langs_count=10&layout=compact)
-
+</div>
 
 # My Skillset
 <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem-2048x1280.jpg" width = "35" height = "35" align = left>
