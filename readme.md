@@ -29,9 +29,9 @@ I am interested in Test Automation and Full Stack Development.
 </div>
 
 <br>
-<h2 align="center"> My Languages </h2>
+<h2 align="center"> My Languages</h2>
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PoyrazM&theme=tokyonight&langs_count=10&layout=compact)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoyrazM&theme=tokyonight&langs_count=10&layout=compact" alt="PoyrazM" /></p>
 </div>
 
 # My Skillset
