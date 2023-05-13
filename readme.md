@@ -12,8 +12,13 @@ I am interested in Test Automation and Full Stack Development.
 </div>
 
 
-<br />
-<br />
+<br>
+<h2 align="center"> Reach out to me</h2>
+<div align="center">
+<a href="https://www.linkedin.com/in/g%C3%B6ksal-%C3%A7o%C5%9Far-036ab123a/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a> 
+</div>  
 
 ## Reach out to me
 
