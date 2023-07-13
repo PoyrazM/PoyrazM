@@ -8,7 +8,7 @@ I am interested in Backend Development and Test Automation.
 <br>
 <h2 align="center"> 👾 I’m currently learning </h2> 
 <div align="center" 
-<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="50" height="50"/>;
 </div>
 
 <br>
