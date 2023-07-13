@@ -3,12 +3,11 @@
 # 💻 Software Developer in Test | QA Engineer
 
 I am Mertcan and 24yo. I am working on the Test Automation @Enuygun.
-I am interested in Test Automation and Full Stack Development.
+I am interested in Backend Development and Test Automation.
 
 <br>
 <h2 align="center"> 👾 I’m currently learning </h2> 
-<div align="center" >
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+<div align="center" 
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="50" height="50"/>&nbsp;
 </div>
 
