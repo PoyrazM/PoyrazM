@@ -1,6 +1,6 @@
 ## Hello everyone , I'm Mertcan Poyraz
 
-# 💻 Software Developer in Test | QA Engineer
+# 💻 Software Developer in Test | Backend Developer
 
 I am Mertcan and 24yo. I am working on the Test Automation @Enuygun.
 I am interested in Backend Development and Test Automation.
