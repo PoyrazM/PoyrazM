@@ -2,7 +2,7 @@
 
 # 💻 Software Developer
 
-I am Mertcan and 24yo. I am working on the Test Automation @Enuygun.
+I am Mertcan and 24yo. I am working on the Backend Development @Enuygun.
 I am interested in Backend Development and Test Automation.
 
 <br>
