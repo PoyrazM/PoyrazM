@@ -4,6 +4,8 @@
 
 I am Mertcan and 24yo. I am working on the Test Automation @Trendyol.
 I am interested in Backend Development and Test Automation.
+<br>
+Ex: Software Developer 1 @Enuygun
 
 <br>
 <h2 align="center"> 👾 I’m currently learning </h2> 
