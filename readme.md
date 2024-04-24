@@ -2,7 +2,7 @@
 
 # 💻 Software Developer | Software Developer in Test
 
-I am Mertcan and 24yo. I am working on the Test Automation @Trendyol.
+I am Mertcan and 25yo. I am working on the Backend Development and Test Automation Development @Trendyol.
 I am interested in Backend Development and Test Automation.
 <br>
 Ex: Software Developer 1 @Enuygun
